@@ -1,6 +1,6 @@
 ---
 title: "Reliability"
-weight: 10
+weight: 40
 ---
 
 # INTRODUCTION

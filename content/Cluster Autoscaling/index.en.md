@@ -1,6 +1,6 @@
 ---
 title: "Cluster Autoscaling"
-weight: 10
+weight: 30
 ---
 
 # Configuration
