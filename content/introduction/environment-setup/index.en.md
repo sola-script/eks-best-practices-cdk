@@ -1,6 +1,6 @@
 ---
-title: "Prepare Environment"
-weight: 10
+title: "Environment Setup"
+weight: 20
 ---
 
 ## Cloud9 Setup
